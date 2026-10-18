@@ -1,0 +1,13 @@
+text
+# Dados (MSTAR e artefatos gerados) - nunca publicar
+data/**
+!data/*/
+!data/**/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Cópias de segurança e pacote do Zenodo
+*.bak
+zenodo_upload/

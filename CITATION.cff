@@ -1,0 +1,17 @@
+cff-version: 0.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pessanha"
+  given-names: "Matheus"
+  orcid: "https://orcid.org/0009-0008-3326-3823"
+- family-names: "Satolo"
+  given-names: "Luiz"
+  orcid: "https://orcid.org/0000-0001-5586-6424"
+- family-names: "Belderrain"
+  given-names: "Carmen"
+  orcid: "https://orcid.org/0000-0002-5582-4977"
+title: "MSTAR-SpecklePipeline"
+version: 0.1.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-10-18
+url: "https://github.com/matheusmrp0116/MSTAR-SpecklePipeline"
